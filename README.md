@@ -22,10 +22,10 @@ A way of partnering with intelligence — to align, not to command.
 Used where meaning is alive, ambiguous, and worth shaping.  
 
 **[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
-[**Coform™ in Markdown**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
+[**Coform™ in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
 
-Both forms are offered for your flexibility to engage.  
-Both forms are sealed and released.  
+Both forms are sealed.  
+Engage in whichever shape holds best for you.
 *Links inside PDF work when opened locally —  
 some preview containers may disable them.*
 
@@ -70,13 +70,13 @@ but to shape the **unimaginable**,
 
 ## Read the Book
 
-The sealed **canonical release** — published **June 25, 2025**
+The sealed **canonical release** — published **June 25, 2025**  
 
 **[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
-[**Coform™ in Markdown**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
+[**Coform™ in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
 
-Both forms are offered for your flexibility to engage.  
-Both forms are sealed and released.  
+Both forms are sealed.  
+Engage in whichever shape holds best for you.
 *Links inside PDF work when opened locally —  
 some preview containers may disable them.*
 
@@ -85,8 +85,8 @@ some preview containers may disable them.*
 
 **License** and **symbolic use** — for preservation, attribution, and continuity:
 
-**[Licence in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
-**[License in Markdown](https://github.com/gabe-czako/Coform/blob/main/LICENSE.md)**  
+**[License in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
+**[License in Markdown on Github](https://github.com/gabe-czako/Coform/blob/main/LICENSE.md)**  
 
 
 ---
