@@ -23,6 +23,7 @@ Used where meaning is alive, ambiguous, and worth shaping.
 
 **[Read the Book – Coform (Sealed Release)](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**
 
+*(Links inside PDF work when opened locally — some preview containers may disable them.)*
 
 ---
 
@@ -76,6 +77,8 @@ The sealed **canonical release** — published **June 25, 2025**
 
 **[License in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.md)**  
 **[Licence in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
+
+*(Links inside PDF work when opened locally — some preview containers may disable them.)*
 
 ---
 
