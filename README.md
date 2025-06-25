@@ -21,9 +21,13 @@ data & intelligence
 A way of partnering with intelligence — to align, not to command.  
 Used where meaning is alive, ambiguous, and worth shaping.  
 
-**[Read the Book – Coform (Sealed Release)](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**
+**[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
+**[Coform™ in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.md)**  
 
-*(Links inside PDF work when opened locally — some preview containers may disable them.)*
+Both forms are offered for your flexibility to engage.  
+Both forms are sealed and released.  
+*Links inside PDF work when opened locally —  
+some preview containers may disable them.*
 
 ---
 
@@ -68,17 +72,22 @@ but to shape the **unimaginable**,
 
 The sealed **canonical release** — published **June 25, 2025**
 
-**[PDF – Coform Book (Sealed Release)](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
-**[Markdown – Coform Canonical Text](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book.md)**  
-**[README (PDF version)](https://raw.githubusercontent.com/gabe-czako/Coform/main/README.pdf)**  
+**[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
+**[Coform™ in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.md)**  
+
+Both forms are offered for your flexibility to engage.  
+Both forms are sealed and released.  
+*Links inside PDF work when opened locally —  
+some preview containers may disable them.*
+
+**[Readme in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/README.pdf)**  
 *GitHub Pages version — coming soon*  
 
 **License** and **symbolic use** — for preservation, attribution, and continuity:
 
-**[License in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.md)**  
 **[Licence in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
+**[License in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.md)**  
 
-*(Links inside PDF work when opened locally — some preview containers may disable them.)*
 
 ---
 
