@@ -86,7 +86,7 @@ some preview containers may disable them.*
 **License** and **symbolic use** — for preservation, attribution, and continuity:
 
 **[Licence in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
-**[License in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.md)**  
+**[License in Markdown](https://github.com/gabe-czako/Coform/blob/main/LICENSE.md)**  
 
 
 ---
