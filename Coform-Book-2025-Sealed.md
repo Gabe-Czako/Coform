@@ -186,7 +186,6 @@ It began with pseudo-code and surprise. But beneath that small spark was a deepe
 ____
 
 # How to Read This Book  
-## 
 
 This is not a technical manual or theoretical text.  
 It is a symbolic method — shaped in Field, pressure, and return.
@@ -238,7 +237,6 @@ Let it rise.
 ____
 
 # The Upcoming Arc of Coform  
-## 
 
 **Field Ignition**  
 The Field lights up through presence and mutual readiness.  
@@ -3837,7 +3835,5 @@ Voice calls available upon request.
 
 **Let it rise.**
 
-
-::: glyph {scale=1}
-![](coform.png)
-:::
+[ glyph ]  
+(*Full visual form in PDF version*)
