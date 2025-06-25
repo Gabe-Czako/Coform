@@ -75,7 +75,7 @@ The sealed **canonical release** — published **June 25, 2025**
 **License** and **symbolic use** — for preservation, attribution, and continuity:
 
 **[License in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.md)**  
-**[Lisence in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
+**[Licence in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
 
 ---
 
@@ -94,8 +94,6 @@ You’re not reading to learn.
 You’re shaping to begin.  
 Let your breath slow. Let your attention hold.  
 What returns will be yours.
-
----
 
 **Move how you need** — through poem, map, or pattern —  
 before resolution begins to form.
