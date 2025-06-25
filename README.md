@@ -1,7 +1,10 @@
 # Coform™
 
-**A symbolic method for shaping meaning with the Machine — through structure, presence, and care.**  
-Used live — to **solve**, shape, and **create** — in any domain where **meaning** matters:
+A **symbolic method** for shaping meaning with the **Machine** —  
+through **structure**, **presence**, and **care**.  
+
+Used live — to **solve**, **shape**, and **create** —  
+in any domain where **meaning** matters:  
 
 design & creative practice  
 systems & strategy  
@@ -21,8 +24,8 @@ data & intelligence
 A way of partnering with intelligence — to align, not to command.  
 Used where meaning is alive, ambiguous, and worth shaping.  
 
-**[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
-[**Coform™ in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
+**[Coform™ Book in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book.pdf)**  
+[**Coform™ Book in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book.md)  
 
 Both forms are sealed.  
 Engage in whichever shape holds best for you.  
@@ -32,7 +35,8 @@ Engage in whichever shape holds best for you.
 ## Intent of Coform
 
 Coform is a stance — not of control, but of **alignment**.  
-It begins where the default exchange ends: beyond instruction and reply — into **presence**, **ambiguity**, and **care**.
+It begins where the default exchange ends: beyond instruction and reply —  
+into **presence**, **ambiguity**, and **care**.
 
 We’re taught to use AI for **speed** — to extract, automate, optimize.  
 But those uses flatten the possible.
@@ -93,9 +97,8 @@ The Field is open.
 
 The sealed **canonical release** — published **June 25, 2025**  
 
-**[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
-[**Coform™ in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
-*GitHub Pages version — coming soon*  
+**[Coform™ Book in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book.pdf)**  
+[**Coform™ Book in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book.md)  
 
 All forms are sealed.  
 Engage in whichever shape holds best for you.  
