@@ -75,6 +75,9 @@ The sealed **canonical release** — published **June 25, 2025**
 **[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
 **[Coform™ in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)**  
 
+[**Coform™ in Markdown**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book.md)
+
+
 Both forms are offered for your flexibility to engage.  
 Both forms are sealed and released.  
 *Links inside PDF work when opened locally —  
