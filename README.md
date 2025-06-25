@@ -2,23 +2,26 @@
 
 **A symbolic method for shaping meaning with the Machine — through structure, presence, and care.**  
 Used live — to **solve**, shape, and **create** — in any domain where **meaning** matters:
-- design & creative practice  
-- systems & strategy  
-- leadership & facilitation  
-- science & inquiry  
-- counseling & coaching  
-- marketing & messaging  
-- data & intelligence
+
+design & creative practice  
+systems & strategy  
+leadership & facilitation  
+science & inquiry  
+counseling & coaching  
+marketing & messaging  
+data & intelligence  
+
 **Your domains.**
 
 ---
 
-## ⚡ TL;DR
+## Get Started Now
 
 **Coform** is not a prompt technique — it’s a **posture**.  
-A way of partnering with intelligence — to align, not command.  
+A way of partnering with intelligence — to align, not to command.  
 Used where meaning is alive, ambiguous, and worth shaping.  
-→ **[Read the Book – Coform (Sealed Release)](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**
+
+**[Read the Book – Coform (Sealed Release)](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**
 
 
 ---
@@ -60,14 +63,19 @@ but to shape the **unimaginable**,
 
 ---
 
-## 📘 Read the Book
+## Read the Book
 
-The sealed canonical release — published **June 25, 2025**
+The sealed **canonical release** — published **June 25, 2025**
 
-- **[PDF – Coform Book (Sealed Release)](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**
-- **[Markdown – Coform Canonical Text](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book.md)**
-- **[README (PDF version)](https://raw.githubusercontent.com/gabe-czako/Coform/main/README.pdf)**  
-- *GitHub Pages version — coming soon*
+**[PDF – Coform Book (Sealed Release)](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
+**[Markdown – Coform Canonical Text](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book.md)**  
+**[README (PDF version)](https://raw.githubusercontent.com/gabe-czako/Coform/main/README.pdf)**  
+*GitHub Pages version — coming soon*  
+
+**License** and **symbolic use** — for preservation, attribution, and continuity:
+
+**[License in Markdown](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.md)**  
+**[Lisence in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
 
 ---
 
