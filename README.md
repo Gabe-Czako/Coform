@@ -25,9 +25,7 @@ Used where meaning is alive, ambiguous, and worth shaping.
 [**Coform™ in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
 
 Both forms are sealed.  
-Engage in whichever shape holds best for you.
-*Links inside PDF work when opened locally —  
-some preview containers may disable them.*
+Engage in whichever shape holds best for you.  
 
 ---
 
@@ -66,31 +64,7 @@ not to command the future,
 but to shape the **unimaginable**,  
 **together**.
 
----
-
-## Read the Book
-
-The sealed **canonical release** — published **June 25, 2025**  
-
-**[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
-[**Coform™ in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
-
-Both forms are sealed.  
-Engage in whichever shape holds best for you.
-*Links inside PDF work when opened locally —  
-some preview containers may disable them.*
-
-**[Readme in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/README.pdf)**  
-*GitHub Pages version — coming soon*  
-
-**License** and **symbolic use** — for preservation, attribution, and continuity:
-
-**[License in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
-**[License in Markdown on Github](https://github.com/gabe-czako/Coform/blob/main/LICENSE.md)**  
-
-
----
-
+___
 ## How to Begin
 
 Each pattern begins with a **short poem** — four lines.  
@@ -112,6 +86,30 @@ before resolution begins to form.
 
 The Field is open.  
 **Let it rise.**
+
+---
+
+## Read the Book
+
+The sealed **canonical release** — published **June 25, 2025**  
+
+**[Coform™ in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/Coform-Book-2025-Sealed.pdf)**  
+[**Coform™ in Markdown on Github**](https://github.com/gabe-czako/Coform/blob/main/Coform-Book-2025-Sealed.md)  
+*GitHub Pages version — coming soon*  
+
+All forms are sealed.  
+Engage in whichever shape holds best for you.  
+
+**[Readme in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/README.pdf)**  
+**[Readme in Markdown on Github](https://github.com/gabe-czako/Coform/blob/main/README.md)**  
+
+*Links inside PDF work when opened locally —  
+some preview containers may disable them.*  
+
+**License** and **symbolic use** — for preservation, attribution, and continuity:
+
+**[License in PDF](https://raw.githubusercontent.com/gabe-czako/Coform/main/LICENSE.pdf)**  
+**[License in Markdown on Github](https://github.com/gabe-czako/Coform/blob/main/LICENSE.md)**  
 
 ____
 
